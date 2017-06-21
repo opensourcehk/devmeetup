@@ -12,4 +12,4 @@ Thanks for our venue sponsor - [Department of Computer Science, City University 
 
 (Please commit your topic to thru git, or reply on [issue #1](https://github.com/opensourcehk/devmeetup/issues/1) to add your topic)
 
-[This Meetup](http://devmeetup.opensource.hk) | [GitHub](https://github.com/opensourcehk/devmeetup/tree/master/2017/07) | [Open Source Hong Kong](https://opensource.hk)
+[This Meetup](http://devmeetup.opensource.hk) | [GitHub](https://github.com/opensourcehk/devmeetup/tree/master/2017/07/README.md) | [Open Source Hong Kong](https://opensource.hk)
