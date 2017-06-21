@@ -2,7 +2,7 @@
 
 2017-07-06 Thursday 
 
-Classroom G5-314, Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloong Tong.
+Classroom G5-314, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloong Tong.
 
 感謝[香港城市大學電腦學系](http://cs.cityu.edu.hk/)贊助今次聚會場地。
 
