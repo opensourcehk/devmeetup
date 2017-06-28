@@ -1,14 +1,14 @@
-# Open Source Developer Meetup #3
+# 廣東話開源開發者聚會 #3
 
-2017-07-06 Thursday 
+2017-07-06 星期四 
 
-Classroom G5-314, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloong Tong.
+地點：Classroom G5-314, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloong Tong.
 
 感謝[香港城市大學電腦學系](http://cs.cityu.edu.hk/)贊助今次聚會場地。
 
 Thanks for our venue sponsor - [Department of Computer Science, City University of Hong Kong](http://cs.cityu.edu.hk/).
 
-**Topics:**
+**分享題目:**
 
 (Please commit your topic to thru git, or reply on [issue #1](https://github.com/opensourcehk/devmeetup/issues/1) to add your topic)
 
