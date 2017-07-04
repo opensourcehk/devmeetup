@@ -10,7 +10,7 @@ Thanks for our venue sponsor - [Department of Computer Science, City University 
 
 **分享題目:**
 
-1. @sammyfung 分享五年香港開源年會工作 - 理念、執行、辛酸
+1. 分享五年香港開源年會工作 - 理念、執行、辛酸 by @sammyfung
 
 (Please commit your topic to thru git, or reply on [issue #1](https://github.com/opensourcehk/devmeetup/issues/1) to add your topic)
 
