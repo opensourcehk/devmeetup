@@ -1,8 +1,8 @@
-# 開源開發者聚會 (廣東話) #4
+# 開源開發者聚會 (廣東話) #4 - 台灣開源人年會會後分享
 
 2017-08-10 星期四 
 
-地點：Classroom G4302, Yeung Kin Man Acad Building (AC1), City Univerisity of Hong Kong, Kowloon Tong.
+地點：Classroom G4302, 4/F Yeung Kin Man Acad Building (AC1), City Univerisity of Hong Kong, Kowloon Tong.
 
 一班香港開源人剛剛去完台灣開源人年會 (COSCUP) 返來，大家會有半個鐘分享所見所聞。
 
