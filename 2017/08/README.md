@@ -2,9 +2,11 @@
 
 2017-08-10 星期四 
 
-地點：待定
+地點：Classroom G4302, Yeung Kin Man Acad Building (AC1), City Univerisity of Hong Kong, Kowloon Tong.
 
 一班香港開源人剛剛去完台灣開源人年會 (COSCUP) 返來，大家會有半個鐘分享所見所聞。
+
+感謝香港城市大學電腦學系贊助今次聚會場地。
 
 **分享題目:**
 
