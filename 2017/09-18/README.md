@@ -8,7 +8,8 @@ In Open Source Developer Meeting #6, we invites 3 speakers to share about data &
 
 We will serve Pizza and drinks from 7:00pm, thanks for IBM HK to sponsor meeting #6.
 
-Pre-Registration is required for meetup #6: https://www.eventbrite.hk/e/open-source-developer-meetup-6-data-devops-tickets-37368453049
+Pre-Registration is required for meetup #6: 
+https://www.eventbrite.hk/e/open-source-developer-meetup-6-data-devops-tickets-37368453049
 
 **Topics:**
 
