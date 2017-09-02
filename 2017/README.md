@@ -1,6 +1,6 @@
 # Open Source Developer Meetups in 2017
 
-* 2017-10-10 Tue: [Open Source Developer Meetup #7](10) @
+* 2017-10-03 Tue: [Open Source Developer Meetup #7](10) @
 * 2017-09-18 Mon: [Open Source Developer Meetup #6](09-18) @ the Hive Wan Chai
 * 2017-09-07 Thu: [Open Source Developer Meetup #5](09) @ CityU
 * 2017-08-10 Thu: [開源開發者聚會 (廣東話) #4 - 台灣開源人年會會後分享](08) @ CityU

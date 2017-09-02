@@ -1,6 +1,6 @@
 # Open Source Developer Meetup #7
 
-2017-10-10 Tuesday 19:30-21:45
+2017-10-03 Tuesday 19:30-21:45
 
 Venue: *to be confirmed*
 
