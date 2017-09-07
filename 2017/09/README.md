@@ -4,7 +4,9 @@
 
 Venue: Classroom B5-208, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloon Tong., Hong Kong 
 
-Sharing how to access GeoData (Open Map, Open Data, etc.) with open source software. 
+Monthly theme: Sharing how to access GeoData (Open Map, Open Data, etc.) with open source software. 
+
+Welcome to share any topics related to monthly theme or open source related.
 
 **Topics:**
 
