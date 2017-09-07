@@ -8,8 +8,8 @@ Sharing how to access GeoData (Open Map, Open Data, etc.) with open source softw
 
 **Topics:**
 
-* T.B.C. by Ho Wa
-* T.B.C. by @sammyfung
+* T.B.C. by [howawong](https://github.com/howawong)
+* OpenStreetMap, OpenLayers and GeoJSON by @sammyfung
 * Approach for scalable data scraping and processing project - advices from my personal journey - by [Daniel Chcouri](https://hk.linkedin.com/in/danielchcouri) ([@theosp](https://github.com/theosp/)).
 * (Please add your topic here)
 
