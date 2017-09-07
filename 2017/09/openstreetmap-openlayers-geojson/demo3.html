@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>OpenLayers 3 series</title>
+    <link rel="stylesheet" href="build/ol.css">
+  <!--  <link rel="stylesheet" href="build/style.css"> -->
+</head>
+<body>
+    <h2>OpenLayers 3 series example</h2>
+    <div id="map" class="map"></div>
+    <script type="text/javascript" src="build/ol.js"></script>
+    <script type="text/javascript">
+    var tcpath_source1 = new ol.source.Vector({
+      title: 'added Layer',
+      //url: 'tcpath1.json',
+      url: 'https://gist.githubusercontent.com/anonymous/e47e374babbaf9a88a9b5acf2d664c3f/raw/a6ca9390f3053ca4f1c060fcbca71c691ff718f4/map.geojson',
+      format: new ol.format.GeoJSON({
+        projection : 'EPSG:3857',
+      }),
+    });
+    var tcpath_layer1 = new ol.layer.Vector({
+      source: tcpath_source1,
+    });
+    var map = new ol.Map({
+        target: 'map',
+        layers: [
+         // Add a new Tile layer getting tiles from OpenStreetMap source
+         new ol.layer.Tile({
+             source: new ol.source.OSM()
+         }),
+         tcpath_layer1,
+         ],
+        view: new ol.View({
+            // Hong Kong 10/22.3799/114.1617
+            // Set the default center of the map view
+            //center: ol.proj.fromLonLat([0, 0]),
+            center: ol.proj.fromLonLat([124.1617, 22.3799]), // Hong Kong
+            // Set default zoom
+            //zoom: 4
+            zoom: 5, // Hong Kong
+        })
+    });
+    </script>
+</body>
+</html>
