@@ -8,8 +8,8 @@ Venue: *to be confirmed*
 
 **Topics:**
 
-* *to be confirmed* by *someone*
-* *to be confirmed* by *someone*
+* *to be confirmed* by Gary Kwong
+* *to be confirmed* by Tony Yip
 * (Please add your topic here)
 
 Thanks for *venue sponsor with link here*
