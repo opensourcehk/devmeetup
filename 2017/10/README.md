@@ -1,15 +1,15 @@
-# Open Source Developer Meetup #7
+# Open Source Developer Meetup #7 - Mozilla
 
 2017-10-03 Tuesday 19:30-21:45
 
 Venue: *to be confirmed*
 
-*put monthly theme here*
+Monthly Theme: Mozilla!
 
 **Topics:**
 
 * *to be confirmed* by Gary Kwong
-* *to be confirmed* by Tony Yip
+* *to be confirmed* by *someone*
 * (Please add your topic here)
 
 Thanks for *venue sponsor with link here*
