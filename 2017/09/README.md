@@ -10,8 +10,9 @@ Welcome to share any topics related to monthly theme or open source related.
 
 **Topics:**
 
-* T.B.C. by [howawong](https://github.com/howawong)
-* OpenStreetMap, OpenLayers and GeoJSON by @sammyfung
+* Simple Data Visualization of Tree Registry with python by [howawong](https://github.com/howawong)
+* Google Analytics + GeoJson = Mapbox by @calpa https://calpa.me
+* OpenStreetMap, OpenLayers and GeoJSON by [@sammyfung](https://twitter.com/sammyfung) ([GitHub](https://github.com/sammyfung))
 * Approach for scalable data scraping and processing project - advices from my personal journey - by [Daniel Chcouri](https://hk.linkedin.com/in/danielchcouri) ([@theosp](https://github.com/theosp/)).
 * (Please add your topic here)
 
