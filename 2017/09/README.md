@@ -12,8 +12,9 @@ Welcome to share any topics related to monthly theme or open source related.
 
 * Simple Data Visualization of Tree Registry with python by [howawong](https://github.com/howawong)
 * Google Analytics + GeoJson = Mapbox by @calpa https://calpa.me
-* Approach for scalable data scraping and processing project - advices from my personal journey - by [Daniel Chcouri](https://hk.linkedin.com/in/danielchcouri) ([@theosp](https://github.com/theosp/)).
 * OpenStreetMap, OpenLayers and GeoJSON by [@sammyfung](https://twitter.com/sammyfung) ([GitHub](https://github.com/sammyfung))
+* Approach for scalable data scraping and processing project - advices from my personal journey - by [Daniel Chcouri](https://hk.linkedin.com/in/danielchcouri) ([@theosp](https://github.com/theosp/)).
+* REST API for Hong Kong data by Jason Ma
 * (Please add your topic here)
 
 Thanks for Department of Computer Science, City University of Hong Kong to sponsor the venue of this meeting. http://cs.cityu.edu.hk/
