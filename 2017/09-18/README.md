@@ -18,4 +18,17 @@ Pre-Registration is required for meetup #6: [https://www.eventbrite.hk/e/open-so
 
 Thanks for IBM HK to sponsor this meetup.
 
+** Schedule **
+
+
+Schedule:
+7:00pm : Reception with Lightning Snacks and Drinks   
+7:30pm : A look at OpenWhisk for serverless computing and dark data (Ying-ki Wu*)   
+8:00pm : Automating deployment, Scaling and Management of containerized applications Platform – Kubernetes –  for Cloud Workloads (Louie Ching)   
+8:30pm : Break   
+8:45pm : From web to json: web scraping for your web app  (Sammy Fung)   
+9:05pm : Networking   
+9:45pm : Wrap-up   
+
+
 [OSHK devmeetup](http://devmeetup.opensource.hk) | [Edit this page](https://github.com/opensourcehk/devmeetup/tree/master/2017/09-18/README.md) | [Open Source Hong Kong](https://opensource.hk)
