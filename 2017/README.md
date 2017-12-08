@@ -1,5 +1,6 @@
 # Open Source Developer Meetups in 2017
 
+* 2017-12-08 Fri: [Open Source Developer Meetup #9 - Communities & Projects 2017/2018](12) @ CityU
 * 2017-11-13 Mon: [開源開發者聚會 #08 - 開放數據與智能城市講座 (廣東話)](11) @ CityU
 * 2017-10-03 Tue: [Open Source Developer Meetup #7 - Mozilla](10) @ CityU
 * 2017-09-18 Mon: [Open Source Developer Meetup #6 - Data & DevOps](09-18) @ the Hive Wan Chai
