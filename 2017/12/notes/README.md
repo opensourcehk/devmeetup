@@ -27,3 +27,16 @@
   * https://github.com/anthonywong/dash-snap
   * build.snapcraft.io
 
+## Ben Lau
+
+* Chrome plugins
+  * Content Farm Blocker (50,000 users)
+    * Firefox addons developed by other developer
+  * Dualless (260,000 users)
+* [Qt library](https://www.qt.io)
+  * QML
+  * QuickFlux
+    * https://github.com/benlau/quickflux
+    * won Qt Champion
+    
+    
