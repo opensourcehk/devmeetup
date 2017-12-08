@@ -14,7 +14,7 @@ Communities & Projects in 2017/2018
 
 **Notes:**
 
-[Note here](notes)
+[Notes here](notes)
 
 Thanks for Department of Computer Science, City Univerisity of Hong Kong.
 
