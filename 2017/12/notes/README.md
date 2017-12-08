@@ -38,5 +38,6 @@
   * QuickFlux
     * https://github.com/benlau/quickflux
     * won Qt Champion
-    
+* design Standing Desk 
+  * Used [Snapshot test](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
     
