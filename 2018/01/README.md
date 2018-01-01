@@ -2,9 +2,9 @@
 
 2018-01-04 Thursday 19:30-21:45
 
-Venue: *to be confirmed*
+Venue: Classroom Y5-202, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloon Tong.
 
-*put monthly theme here*
+Theme in Q1 2018: Open Data related topics
 
 **Topics:**
 
@@ -12,6 +12,6 @@ Venue: *to be confirmed*
 * *to be confirmed* by *someone*
 * (Please add your topic here)
 
-Thanks for *venue sponsor with link here*
+Thanks for [Department of Computing Science, City University of Hong Kong](http://cs.cityu.edu.hk/).
 
 [OSHK devmeetup](http://devmeetup.opensource.hk) | [Edit this page](https://github.com/opensourcehk/devmeetup/tree/master/2018/01/README.md) | [Open Source Hong Kong](https://opensource.hk)
