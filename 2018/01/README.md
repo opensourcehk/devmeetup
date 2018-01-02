@@ -8,6 +8,8 @@ Theme in Q1 2018: Open Data related topics
 
 **Topics:**
 
+* 緩步跑時間表嘅API / Telegram bot by Wong Ho Wa
+* Open Data Day hackathon 2018 by Sammy Fung
 * Discussion of open data in Hong Kong and difference with other cities  by Sammy Fung
 * *to be confirmed* by *someone*
 * (Please add your topic here)
