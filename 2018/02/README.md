@@ -8,7 +8,7 @@ Venue: *to be confirmed*
 
 **Topics:**
 
-* *to be confirmed* by *someone*
+* Introduction to Web Scraping with Python by Sammy Fung
 * *to be confirmed* by *someone*
 * (Please add your topic here)
 
