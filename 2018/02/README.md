@@ -6,9 +6,9 @@ Venue: *to be confirmed*
 
 It is a monthly meetup of open source community, we will host an unconference with few lightning talks about 10 minutes each.
 
-19:30 - 20:00   Developer networking, group sharing.
-20:00 - 21:00   5 lightning talks.
-21:00 - 21:30   Developer networking, group sharing.
+19:30 - 20:00   Developer networking, group sharing.   
+20:00 - 21:00   5 lightning talks.   
+21:00 - 21:30   Developer networking, group sharing.   
 
 **Topics:**
 
