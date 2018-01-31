@@ -4,15 +4,13 @@
 
 Venue: Classroom Y5-202, 5/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloon Tong.
 
-Theme in Q1 2018: Open Data related topics
+Monthly Theme: Open Data related topics
 
 **Topics:**
 
 * 緩步跑時間表嘅API / Telegram bot by Wong Ho Wa
 * Open Data Day hackathon 2018 by Sammy Fung
 * Discussion of open data in Hong Kong and difference with other cities  by Sammy Fung
-* *to be confirmed* by *someone*
-* (Please add your topic here)
 
 Thanks for [Department of Computing Science, City University of Hong Kong](http://cs.cityu.edu.hk/).
 
