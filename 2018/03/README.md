@@ -8,7 +8,7 @@ Venue: *to be confirmed*
 
 **Topics:**
 
-* *to be confirmed* by *someone*
+* Email privacy, a short talk about email privacy. Featuring 2 easy to use free software tools by gustavo
 * *to be confirmed* by *someone*
 * (Please add your topic here)
 
