@@ -6,6 +6,8 @@ Venue: *to be confirmed*
 
 It is a monthly meetup of open source community, we will host some talks / unconference.
 
+Please submit your topics before 2018-03-14. We will change the event to unconference or others if no topic is submitted for this meeting before submission deadline. 
+
 19:30 - 20:00   Developer networking, group sharing.   
 20:00 - 21:00   Talks / Unconference.    
 21:00 - 21:30   Developer networking, group sharing.   
