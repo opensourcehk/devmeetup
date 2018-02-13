@@ -4,7 +4,11 @@ YYYY-MM-DD Thursday 19:30-21:45
 
 Venue: *to be confirmed*
 
-*put monthly theme here*
+It is a monthly meetup of open source community, we will host some talks / unconference.
+
+19:30 - 20:00   Developer networking, group sharing.   
+20:00 - 21:00   Talks / Unconference.    
+21:00 - 21:30   Developer networking, group sharing.   
 
 **Topics:**
 

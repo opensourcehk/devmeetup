@@ -2,16 +2,21 @@
 
 2018-03-01 Thursday 19:30-21:30
 
-Venue: *to be confirmed*
+Venue: Classroom G4302, 4/F Yeung Kin Man Acad Building (AC1), City University of Hong Kong, Kowloon Tong.
 
-*put monthly theme here*
+It is a monthly meetup of open source community, we will host talks.
+
+19:30 - 20:00 Developer networking, group sharing.
+20:00 - 21:00 Talks.
+21:00 - 21:30 Developer networking, group sharing.
 
 **Topics:**
 
-* *to be confirmed* by *someone*
+* 以太坊的代幣付款委託 ( Aludirk Wong) (廣東話 Cantonese)
+(範圍: Blockchain (Ethereum), 內容程度：初學-中級)
 * *to be confirmed* by *someone*
 * (Please add your topic here)
 
-Thanks for *venue sponsor with link here*
+Thanks for venue sponsor: [Department of Computer Science, City University of Hong Kong](http://cs.cityu.edu.hk/).
 
 [OSHK devmeetup](http://devmeetup.opensource.hk) | [Edit this page](https://github.com/opensourcehk/devmeetup/tree/master/2018/03/README.md) | [Open Source Hong Kong](https://opensource.hk)
