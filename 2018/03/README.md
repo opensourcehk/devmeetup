@@ -14,8 +14,7 @@ It is a monthly meetup of open source community, we will host talks.
 
 * 以太坊的代幣付款委託 ( Aludirk Wong) (廣東話 Cantonese)
 (範圍: Blockchain (Ethereum), 內容程度：初學-中級)
-* *to be confirmed* by *someone*
-* (Please add your topic here)
+* Email privacy, a short talk about email privacy. Featuring 2 easy to use free software tools by gustavo   
 
 Thanks for venue sponsor: [Department of Computer Science, City University of Hong Kong](http://cs.cityu.edu.hk/).
 
