@@ -1,6 +1,6 @@
-# Open Source Developer Meetup #nn
+# Open Source Developer Meetup #15
 
-YYYY-MM-DD Thursday 19:30-21:45
+2018-06-07 Thursday 19:30-21:45
 
 Venue: *to be confirmed*
 
