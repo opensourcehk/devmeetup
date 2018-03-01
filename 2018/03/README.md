@@ -6,9 +6,9 @@ Venue: Classroom G4302, 4/F Yeung Kin Man Acad Building (AC1), City University o
 
 It is a monthly meetup of open source community, we will host talks.
 
-19:30 - 20:00 Developer networking, group sharing.
-20:00 - 21:00 Talks.
-21:00 - 21:30 Developer networking, group sharing.
+19:30 - 20:00|Developer networking, group sharing.
+20:00 - 21:00|Talks.
+21:00 - 21:30|Developer networking, group sharing.
 
 **Topics:**
 
