@@ -26,4 +26,9 @@ Thanks for venue sponsor: [Department of Computer Science, City University of Ho
 * [Next meeting in April: Call for Speakers](https://github.com/opensourcehk/devmeetup/issues).
 * [Open Source Program for Youth](https://opensource.hk/program-for-youth/).
 
+## Email Privacy
+
+* [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) - one-click email appliance.
+* [AutoCrypt](https://github.com/autocrypt/autocrypt) - e-mail encryption for everyone.
+
 [OSHK devmeetup](http://devmeetup.opensource.hk) | [Edit this page](https://github.com/opensourcehk/devmeetup/tree/master/2018/03/README.md) | [Open Source Hong Kong](https://opensource.hk)
