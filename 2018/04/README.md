@@ -1,6 +1,6 @@
 # Open Source Developer Meetup #13
 
-2018-04-12 Thursday 19:30-21:45
+2018-04-?? ????day 19:30-21:45
 
 Venue: *to be confirmed*
 
