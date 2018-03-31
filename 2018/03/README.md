@@ -30,5 +30,7 @@ Thanks for venue sponsor: [Department of Computer Science, City University of Ho
 
 * [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) - one-click email appliance.
 * [AutoCrypt](https://github.com/autocrypt/autocrypt) - e-mail encryption for everyone.
+* [Talk slides](http://blog.zumbi.com.ar/posts/oshk-20180301/oshk-0301.odp)
+* [iOS App](https://lists.mayfirst.org/pipermail/autocrypt/2018-March/000319.html)
 
 [OSHK devmeetup](http://devmeetup.opensource.hk) | [Edit this page](https://github.com/opensourcehk/devmeetup/tree/master/2018/03/README.md) | [Open Source Hong Kong](https://opensource.hk)
