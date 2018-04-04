@@ -1,4 +1,4 @@
-# Open Source Developer Meetup #15
+# Open Source Developer Meetup #14
 
 2018-06-07 Thursday 19:30-21:45
 
